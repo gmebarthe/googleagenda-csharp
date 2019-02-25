@@ -1,0 +1,12 @@
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\client_secret.json
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\Agenda.deps.json
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.json
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.dev.json
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\bin\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfoInputs.cache
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfo.cs
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\Administrateur.MININT-GHE0CK1\Desktop\Files\Agenda\obj\Debug\netcoreapp2.2\Agenda.csprojAssemblyReference.cache
